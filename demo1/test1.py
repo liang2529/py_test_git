@@ -11,3 +11,5 @@ print('push test')
 print('pull test')
 print('pull gitee')
 print('pull gitee2')
+import numpy as np
+print(np.log2(1/0.375))
