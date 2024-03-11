@@ -13,3 +13,4 @@ print('pull gitee')
 print('pull gitee2')
 import numpy as np
 print(np.log2(1/0.375))
+print(np.log2(2/0.375))
